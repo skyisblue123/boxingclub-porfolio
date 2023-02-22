@@ -203,7 +203,7 @@
   .wrap .body {
     flex-direction: column;
   }
-  .wrap .body .left {
+  .wrap .body .body-left {
     width: 100%;
   }
   .wrap .body .left .image-small {
